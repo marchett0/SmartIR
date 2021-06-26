@@ -231,3 +231,8 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | Code | Supported Models | Controller |
 | ------------- | -------------------------- | ------------- |
 [1360](../codes/media_player/1360.json)| HD27 |Broadlink
+
+#### Philco
+| Code | Supported Models | Controller |
+| ------------- | -------------------------- | ------------- |
+[1066](../codes/media_player/1066.json)| PH16D10DLED<br>PTV24N91SALED |Broadlink 
